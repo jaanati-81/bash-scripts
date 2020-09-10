@@ -1,0 +1,18 @@
+127.0.0.1	localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+168.138.3.150 hadoopmaster 
+168.138.9.132 slave1
+168.138.12.252 slave2
+168.138.14.230 slave3
+168.138.11.45 slave4
+168.138.11.133 slave5
+168.138.15.53 slave6
+168.138.8.185 slave7
+168.138.13.115 slave8
+168.138.10.229 slave9
+168.138.11.51 slave10
